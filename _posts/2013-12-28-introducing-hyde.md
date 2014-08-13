@@ -8,7 +8,7 @@ standards:
     num: 1.2
 ---
 
-Base is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Base is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on Hyde and [Poole](http://getpoole.com), the Jekyll butler[^1].
 
 ### Built on Poole
 
@@ -23,13 +23,9 @@ Poole is the Jekyll Butler, serving as an upstanding and effective foundation fo
 
 ### Base features
 
-In addition to the features of Poole, Base adds the following:
+In addition to the features of Hyde, Base adds the following:
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/Base#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/Base#readme) to learn more.
+* Sidebar includes support for post specific standards
 
 ### Browser support
 
@@ -41,4 +37,5 @@ Base is developed on and hosted with GitHub. Head to the <a href="https://github
 
 Thanks!
 
+[^1]: Testing out footnoes.
 
