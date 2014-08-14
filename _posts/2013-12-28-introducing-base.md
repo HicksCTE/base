@@ -23,6 +23,7 @@ Poole is the Jekyll Butler, serving as an upstanding and effective foundation fo
 In addition to the features of Hyde, Base adds the following:
 
 * Sidebar includes support for post specific standards
+* Font Awesome icons with standard implementation <i class="fa-thumbs-up" />
 
 ### Browser support
 
