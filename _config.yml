@@ -11,7 +11,6 @@ tagline:          'Business, Marketing, Technology'
 class:			  'Configure class name in _config.yml'
 description:      'A template for HicksCTE classroom discussions, activities.'
 url:              http://base.hickscte.com
-baseurl:          http://base.hickscte.com
 
 # Help
 email:			  chicks@alpinedistrict.org
