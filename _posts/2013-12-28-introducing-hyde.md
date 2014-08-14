@@ -3,9 +3,6 @@ layout: post
 title: Introducing Base
 standards:
   - name: 'You can place standards in the sidebar.'
-    num: 1.1
-  - name: 'Check the Readme for instructions.'
-    num: 1.2
 ---
 
 Base is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on Hyde and [Poole](http://getpoole.com), the Jekyll butler[^1].
