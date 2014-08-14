@@ -10,7 +10,7 @@ title:            HicksCTE
 tagline:          'Business, Marketing, Technology'
 class:			  'Configure class name in _config.yml'
 description:      'A template for HicksCTE classroom discussions, activities.'
-url:              http://hickscte.github.io
+url:              http://hickscte.github.io/base/
 baseurl:          http://hickscte.github.io/base/
 
 # Help
