@@ -16,7 +16,7 @@
 
     {% if page.standards %}
     <hr />
-    <h3 class="sidebar-nav-item">Standards:</h3>
+    <h3 class="sidebar-nav-item">Goals:</h3>
     <nav class="sidebar-nav">
       {% comment %}
         The code below dynamically generates a sidebar list of standards entered
@@ -24,7 +24,7 @@
       {% endcomment %}
 
       {% for item in page.standards %}
-      <span class"sidebar-nav-item">{{ item.name }}</span><br />
+      <span class"sidebar-nav-item">- {{ item.name }}</span><br />
       {% endfor %}
     </nav>
     <hr />
