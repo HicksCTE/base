@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlights:         true
+highlights:       true
 
 # Permalinks
 permalink:        pretty
@@ -11,7 +11,7 @@ tagline:          'Business, Marketing, Technology'
 class:			  'Configure class name in _config.yml'
 description:      'A template for HicksCTE classroom discussions, activities.'
 url:              http://hickscte.github.io
-baseurl:          /
+baseurl:          http://hickscte.github.io/base/
 
 # Help
 email:			  chicks@alpinedistrict.org
